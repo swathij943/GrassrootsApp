@@ -3,7 +3,7 @@
  
 
 
-## Tech/Frameworks Used
+## Tech/Frameworks 
 
 Front End: ReactJS, Material-UI
 
